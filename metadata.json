@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Mockups de Anúncios com IA",
+  "description": "Envie a foto de um produto e gere instantaneamente mockups de anúncios realistas em vários formatos como outdoors, revistas e mídias sociais usando a API Gemini.",
+  "requestFramePermissions": []
+}
